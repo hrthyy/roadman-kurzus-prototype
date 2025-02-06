@@ -19,3 +19,7 @@ html {
 #meno-felsorolas {
     list-style: none;
 }
+
+.cont-img {
+    max-width: 30%;
+}
